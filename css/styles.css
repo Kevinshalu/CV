@@ -1,0 +1,23 @@
+body {
+  background-color: #feceab;
+  background-image: url("HTML-Personal site\image\Tech-Engineering-Background-Pics.png");
+  color: #383e56;
+  font:110% cursive;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 4%;
+}
+h1 {
+  color: #596e79;
+}
+h3 {
+  color: #679b9b;
+}
+h2 {
+  color: #679b9b;
+}
